@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ankit Kapoor
 
-<!--
-**ankitkapoor04/ankitkapoor04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **full-stack web developer** who enjoys building scalable backend systems and clean, user-friendly frontend applications.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- 🔧 Backend development with **Node.js**, **Express**, and **MySQL**
+- 💻 Frontend development using **Angular**
+- 🗂 Session management using **Redis**
+- 🔐 Authentication with **JWT**, **bcrypt**, and **role-based access**
+- ✅ Input validation using **Joi** and error handling with **@hapi/boom**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🧾 **Ticket Management System** – Role-based access, session handling, JWT auth, Redis sessions, Angular frontend
+- 🛠️ Building APIs with modular structure, validations, and Redis-based session control
+
+### 📚 Currently Learning
+- Advanced backend architecture and scalable API design  
+- Docker & deployment workflows  
+- System design and Redis optimization  
+
+### 🛠️ Tech Stack
+`Node.js` `Express` `Angular` `MySQL` `Redis` `JWT`  
+`Joi` `@hapi/boom` `bcrypt` `Git` `Postman`
+
+### 📫 How to Reach Me
+- LinkedIn: [linkedin.com/in/ankitkapoor04](https://www.linkedin.com/in/ankitkapoor04/)
+- Email: ankitkapoor.dev@gmail.com (replace with your real email if needed)
+- GitHub: [github.com/ankitkapoor04](https://github.com/ankitkapoor04)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
